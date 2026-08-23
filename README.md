@@ -1,5 +1,8 @@
 # API CRUD Étudiants — Full Stack
 
+À titre d'information : j'ai perdu des versions ultérieures de mon projet, et j'ai donc du crée d'autres, dont celui ci est le dernier. Et suite à des problèmes d'incompatibilité projet-git, j'ai du passé de 15 commits progressifs à 1 seul commit forcé dans le dépot distant.
+
+
 Projet full stack réalisé avec :
 
 * **Frontend :** React 18 + Vite
